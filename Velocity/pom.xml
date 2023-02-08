@@ -27,7 +27,7 @@
 
     <build>
         <defaultGoal>clean package install</defaultGoal>
-        <finalName>Velocity</finalName>
+        <finalName>DisableChatSignatures-Velocity</finalName>
         <sourceDirectory>src/main/java</sourceDirectory>
         <resources>
             <resource>

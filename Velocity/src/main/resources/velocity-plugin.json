@@ -1,4 +1,5 @@
 {
   "id": "disable-chat-signatures",
-  "main": "me.savag3.chat.DisableChatSignatures"
+  "main": "me.savag3.chat.DisableChatSignatures",
+  "version": "1.0.0"
 }
